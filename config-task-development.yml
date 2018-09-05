@@ -18,7 +18,7 @@ spring:
     database-platform: org.hibernate.dialect.PostgreSQL94Dialect
 
 server:
-  port: 9094
+  port: 9093
 rabbit-names-config:
   products-exchange-name: productExchange
   receive-products-queue-name: receiveProductsQueue
